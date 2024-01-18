@@ -3,6 +3,6 @@ import netlify from '@astrojs/netlify';
 
 // https://astro.build/config
 export default defineConfig({
-  output: "static",
-  //adapter: netlify(),
+  output: "hybrid",
+  adapter: netlify(),
 });
