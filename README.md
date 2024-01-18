@@ -1,10 +1,10 @@
-# Astro Netlify Repro
+# Astro Netlify Repro: 404
 
-GH Issue: https://github.com/withastro/astro/issues/7540
+GH Issue: https://github.com/withastro/astro/issues/xxx
 
 ## Versions
-Astro 3.5.0
-Netlify 3.0.4
+Astro 4.2.1
+Netlify 4.1.1
 
 ## Description
 404 routes are not picked up by Netlify's 404 logic.
