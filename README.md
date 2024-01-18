@@ -1,6 +1,6 @@
 # Astro Netlify Repro: 404
 
-GH Issue: https://github.com/withastro/astro/issues/xxx
+GH Issue: https://github.com/regisphilibert/astro-netlify-404-repro
 
 ## Versions
 Astro 4.2.1
